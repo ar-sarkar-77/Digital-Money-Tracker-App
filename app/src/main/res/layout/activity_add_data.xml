@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_marginTop="100dp"
+    android:fitsSystemWindows="true"
     android:background="@drawable/backrond_two"
     >
 

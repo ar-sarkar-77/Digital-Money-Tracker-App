@@ -87,8 +87,8 @@ class MainActivity : AppCompatActivity() {
              var pieChartIn : Float = 1-pieChartEx
 
              pieChart.slices = listOf(
-                 PieChart.Slice(pieChartIn, Color.GREEN),
-                 PieChart.Slice(pieChartEx, Color.RED)
+                 PieChart.Slice(pieChartIn, Color.CYAN),
+                 PieChart.Slice(pieChartEx, Color.GRAY)
              )
 
          }
